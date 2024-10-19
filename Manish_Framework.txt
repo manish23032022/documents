@@ -1,0 +1,52 @@
+Hi this is Manish from patna bihar but currently i m staying in banglore. i have total 5.1 year of exp as Manual and Automation test engg and  in between 5.1 year of exp i have worked on 2 
+companies and my previous company was Eastvantage pvt ltd and i have worked on total 2 different project and my recent project was Telenet based on european  countries especially for 
+belgium for installation of Telecom products like wifi,dish tv connection,modem etc.In that project 6 test engg was working as different diff module and in this project i have located 
+3 module like contact module,installation module and help module.
+1) In contact module when ever new user come and registered my app it's automatically direct store in data base. once registered done by user we can send different different offer in week 
+and month.
+2) In installation module to aim  evaluate the installation process of a software application or system, including any hardware components such as modems or WiFi adapters.
+3) In Help module if anyone customer have faccing issue related software and hardware component then user will contact by email and call. after that we try to  resolved as soon as possible.
+====================================================>
+Come to my rolls and responsiblities was like that when ever we get the manual test cases from manual team and analyse the requirement and discussed with manual team.if i cleared about 
+custmer requirement then it's ok .if requirement isn't cleared then i informed scrum master for clarification.After correct analysis of custmer requirement then we  will go to convert 
+manual test cases to automation test script.but before converting test script we pulled my framework from the gitHub.once pull my framework from git hub we start the actual work of 
+my framework and actually i was working as Automation test engg and write the test script and also parallelly maintain the POM classes.
+In my project i have attend diff-diff meeting like  daily stand up meeting ,PI Planning meeting,sprint review meeting, Retro meetingS
+=====================================================>
+Comes to my framework:it's is reusable and well organised to make script devlopment Easy way and faster.Actually in my company approach BDD (Behavior-Driven Development) and 
+TDD (Test-Driven Development) are both methodologies used in software development
+i have worked as Hybrid framework which is combination of 2 or more framework like as data driven ,modular driven,keyword driven framework,method driven fW
+1) Data driven FW:when the data to be tested as huge number compared to the methods then we will go to data driven FW eg:Ecommerce,Banking we use external resources to store data
+2) Method Driven FW:when the application has lots of reusable methods we will go to method driven FW like 
+3) Modular driven FW: when we have huge number of module then we will store test cases in module wise
+4) Keyword driven FW:-Keywords represent actions or operations that the test script will perform
+in my framework i used diff diff tools like eclips,testng,maven,jenkins,java selenium,git,git hub etc..
+eclipse allow to create maven project it's give some packages like: src main java,src main resources,src test java,src test resources,pom.xml etc. pom.xml is the heart of the framework.here
+we add the dependencies and want to save forcefully to update all jar file whatever added the dependencies under pom.xml.
+  ===>In SRC main java we created two type of package like :-1) Generic package and 2) Page object model
+        1)  Generic package:it is the collection of reusable method which is common for every application and used in our test script here we create multiple classes like base class,
+excel class,file utility class,java utility class,webdriver 
+=>Base class :==>It is one of the important component in our framework, which consists of testNG annotations which is used to perform common actions like connecting to database, launching 
+the browser, login to and logout from the application, closing the browser and disconnect to database (In this class for each test scripts the pre and post conditions need to be executed 
+are developed here)
+=>File utility :==>In this class we developed a method to read the data from the property file (In this file we stored common data’s like Base Browser, Base URL, username,password).
+=>Excel utility:==> In this class we developed some methods related to excel file like read and write the data into the excel file
+=>webdriver utility:==>  In this class we developed some methods related to webdriver , Actions class , switching between the frames and windows etc,. All those actions which requires
+driver are developed here
+=> Java Utils:==>In this class we developed some methods related to java like generating Random number , getting system date and getting system date in user defined format.
+        2) page object model:-In this component we created separate pom pages for each and every webpage to store the all the element in simple and organized manner and developed some 
+business libraries with help of locators (code reusability, to achieve auto healing process , to handle StaleElementaReferenceException and to achieve encapsulation )
+  ==>src test java we write the test script
+  ==>src test resources we can store the common data
+
+*** Extent Reports :
+In this component using ExtentReports class we customized the report .
+which consists of
+• graphical representation no of test scripts PASS , FAIL , SKIPPED and RETRIED.
+• Attach Screenshot and Exception.
+• Testscripts which got skipped and the exception
+• Status of the test scripts.
+• System information(Platform, Browser, URL, Reporter name).
+
+
+

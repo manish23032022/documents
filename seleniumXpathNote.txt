@@ -1,0 +1,93 @@
+Assending/desendent
+//form[@data-testid="royal_login_form"]/descendant::a[text()='Create new account']
+
+setTimeout(function() {debugger;}, 6000);
+
+Dynamic X=path
+//div[@class="yuRUbf" and contains(.,'https://www.flipkart.com')]/descendant::h3[@class="LC20lb MBeuO DKV0Md"]
+
+descendant
+//div[@class="BYM4Nd"]/descendant::div[@class="yuRUbf"]/descendant::h3[text()='Flipkart']
+
+
+ancestor
+//h3[text()='Flipkart']/ancestor::div[@class='yuRUbf']/ancestor::div[@class='BYM4Nd']
+
+table handling  (https://www.dezlearn.com/webtable-example/)
+//table[@class="tg"]/tbody/tr[2]/td[6]
+
+//table[@class="tg"]/tbody/tr[2]/td[6]/input[@type="text"]
+
+Autosuggetion
+console==>setTimeout(function() {debugger;},6000);
+
+Git Bash
+Note :- first create one empty repo in github then copy and paste in remote add origin
+
+push 
+go to project + right click + properties + resource + click on show icon folder from location (==>) + automatic jump to c driver local repository + right click on file or folder
+then go to git base + 
+Manish@DESKTOP-5NEEPGF MINGW64 ~/git/repository4234/TestYantra
+$ git init
+Initialized empty Git repository in C:/Users/Manish/git/repository4234/TestYantra/.git/
+
+Manish@DESKTOP-5NEEPGF MINGW64 ~/git/repository4234/TestYantra (master)
+$ git remote add origin https://github.com/manish23032022/Demo1.git   ( follow Note );
+
+Manish@DESKTOP-5NEEPGF MINGW64 ~/git/repository4234/TestYantra (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .classpath
+        .gitignore
+        .project
+        .settings/
+        pom.xml
+        src/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Manish@DESKTOP-5NEEPGF MINGW64 ~/git/repository4234/TestYantra (master)
+$ git add -A
+
+Manish@DESKTOP-5NEEPGF MINGW64 ~/git/repository4234/TestYantra (master)
+$ git commit -m "manisha"
+[master (root-commit) f6cabb3] manisha
+ 9 files changed, 141 insertions(+)
+ create mode 100644 .classpath
+ create mode 100644 .gitignore
+ create mode 100644 .project
+ create mode 100644 .settings/org.eclipse.jdt.core.prefs
+ create mode 100644 .settings/org.eclipse.m2e.core.prefs
+ create mode 100644 pom.xml
+ create mode 100644 src/test/java/Demo/LoginEmail.java
+ create mode 100644 src/test/java/Demo/PrimeNum.java
+ create mode 100644 src/test/java/Demo/PrintPrimeNum.java
+
+Manish@DESKTOP-5NEEPGF MINGW64 ~/git/repository4234/TestYantra (master)
+$ git push -u origin master
+Enumerating objects: 16, done.
+Counting objects: 100% (16/16), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (12/12), done.
+Writing objects: 100% (16/16), 2.19 KiB | 374.00 KiB/s, done.
+Total 16 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/manish23032022/Demo1.git
+ * [new branch]      master -> master
+branch 'master' set up to track 'origin/master'.
+
+Manish@DESKTOP-5NEEPGF MINGW64 ~/git/repository4234/TestYantra (master)
+$ ^C
+
+
+for pull 
+ copy any repo path and start
+1. create one folder -> right click -> git base -> 
+  2. command a). git init 
+             b)  git clone path whatever you copied from github (only first time ) then 
+             c)  git pull <path>

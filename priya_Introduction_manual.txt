@@ -1,0 +1,44 @@
+Hi this is Priya Gupta from patna bihar but currently i m staying in banglore. i have total 3.1 year of exp as Manual and API test engg and  in 3.1 year of exp i have worked on 
+Iscribe software solution and my recent project was "Telle" based on european  countries especially for 
+belgium for installation of Telecom products like wifi,dish tv connection,modem etc.In that project 6 test engg was working as different diff module and in this project i have located 
+3 module like contact module,installation module and help module.
+1) In contact module when ever new user come and registered my app it's automatically direct store in data base. once registered done by user we can send different different offer in week 
+and month.
+2) In installation module to aim  evaluate the installation process of a software application or system, including any hardware components such as modems or WiFi adapters.
+3) In Help module if anyone customer have faccing issue related software and hardware component then user will contact by email and call. after that we try to  resolved as soon as possible.
+====================================================>
+Come to my rolls and responsiblities was like :
+
+1) Understanding Requirements
+Requirement Analysis: Review and analyze project requirements, user stories, and functional specifications to understand the expected functionality and potential test scenarios.
+Clarification: Seek clarification from stakeholders or product owners if any requirements are unclear or ambiguous
+
+2) Test Planning
+Test Strategy: Develop a comprehensive test plan and strategy based on the requirements and project scope.
+Test Case Design: Create detailed, well-structured test cases and test scripts to cover various scenarios, including positive, negative, and edge cases.
+Test Data Preparation: Identify and prepare the necessary test data required for executing test cases.
+
+3) Test Execution
+Manual Testing: Execute test cases manually to validate software functionality, user interfaces, and performance.
+Exploratory Testing: Perform exploratory testing to uncover defects that may not be identified through predefined test cases.
+Regression Testing: Re-run previously executed test cases to ensure that new changes haven’t adversely affected existing functionality.
+
+4. Defect Management
+Defect Reporting: Identify, document, and report defects or issues found during testing using a defect tracking tool (e.g., Jira, Bugzilla).
+Defect Verification: Re-test and verify that reported defects have been fixed and validate the resolution.
+
+5. Collaboration and Communication
+Team Interaction: Collaborate with developers, business analysts, and other team members to discuss requirements, clarify ambiguities, and understand potential issues.
+Status Reporting: Provide regular updates on testing progress, defect status, and test coverage to project managers and stakeholders.
+
+6. Test Documentation
+Test Plan Documentation: Document test plans, test cases, test scripts, and other related materials for traceability and future reference.
+Test Results: Maintain detailed records of test results, including test case execution status, defect logs, and test metrics.
+
+7) Training and Support
+Team Training: Assist in training new team members on testing practices, tools, and procedures.
+Support: Provide support and assistance during testing phases to ensure smooth execution and resolution of issues.
+
+
+In my project i have attend diff-diff meeting like  daily stand up meeting ,PI Planning meeting,sprint review meeting, Retro meetingS
+
